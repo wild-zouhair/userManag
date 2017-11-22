@@ -1,2 +1,2 @@
 # userManag
-salam 3alaykom
+Client(nom,prenom,tel,email,adresse) 
