@@ -1,3 +1,3 @@
 # userManag
-lkhoot baan likom chi hajaa
+lkhoot baan likom chi hajaahuyghu
  
