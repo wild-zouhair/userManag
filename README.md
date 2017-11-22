@@ -1,2 +1,3 @@
 # userManag
-lkhoot baan likom chi haja 
+lkhoot baan likom chi hajaa
+ 
